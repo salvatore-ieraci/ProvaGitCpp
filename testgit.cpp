@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Seconda versione del programma!" << std::endl;
+    std::cout << "Nuova versione!" << std::endl;
     return 0;
 }
