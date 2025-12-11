@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Ciao Git!" << std::endl;
+    std::cout << "Seconda versione del programma!" << std::endl;
     return 0;
 }
