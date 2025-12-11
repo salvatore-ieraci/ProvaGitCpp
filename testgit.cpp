@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Versione di prova del commit con la Git Gui" << std::endl;
+    std::cout << "Versione sul branch nuova-stampa!" << std::endl;
     return 0;
 }
