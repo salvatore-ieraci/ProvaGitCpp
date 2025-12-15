@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Versione sul branch nuova-stampa!" << std::endl;
+    std::cout << "Prova senza appunti" << std::endl;
     return 0;
 }
